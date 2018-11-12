@@ -1,0 +1,28 @@
+{
+  "name": "fe-etp-course",
+  "version": "0.0.1",
+  "description": "EB FE course project",
+  "main": "index.js",
+  "scripts": {
+    "init-server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierv-eb/etp-fe.git"
+  },
+  "keywords": [
+    "eb",
+    "etp-fe"
+  ],
+  "author": "-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierv-eb/etp-fe/issues"
+  },
+  "homepage": "https://github.com/javierv-eb/etp-fe#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4"
+  }
+}
